@@ -1,4 +1,4 @@
-pandas
-streamlit
+streamlit>=1.27.0
 matplotlib
-altair
+pandas
+altair>=5.0.0
